@@ -1,0 +1,6 @@
+[submodule "vimo-back-end"]
+	path = vimo-back-end
+	url = https://github.com/Bullzai/vimo-back-end
+[submodule "vimo-flutter"]
+	path = vimo-flutter
+	url = https://github.com/Bullzai/vimo-flutter
